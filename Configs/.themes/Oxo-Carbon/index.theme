@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Quixotic-pink
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quixotic-pink
+MetacityTheme=Quixotic-pink
+IconTheme=Tela-circle-dark
+CursorTheme=Quixotic-cursors
+ButtonLayout=close,minimize,maximize:menu
